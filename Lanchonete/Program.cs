@@ -12,7 +12,7 @@ namespace Lanchonete
 		{
 			
 			Console.WriteLine("Que Lindo");
-			Console.WriteLine("Goool");
+			
 
 			Console.ReadLine();
 		}
