@@ -10,6 +10,8 @@ namespace Lanchonete
 	{
 		static void Main(string[] args)
 		{
+			
+			Console.WriteLine("Que Lindo");
 			Console.WriteLine("Goool");
 
 			Console.ReadLine();
